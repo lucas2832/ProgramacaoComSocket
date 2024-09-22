@@ -1,7 +1,7 @@
 import pickle
 from socket import *
 from random import randint
-serverName = '192.168.100.24'
+serverName = 'localhost'
 serverPort = 12000
 clientSocket = socket(AF_INET, SOCK_STREAM)
 clientSocket.connect((serverName, serverPort))
