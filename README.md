@@ -19,5 +19,5 @@
  compra. Logo em seguida a conexão é encerrada.
 
  ### Instruções de uso:
-- No campo 'serverName', insira o endereço ip do dispositivo que será o servidor nessa interação. Ou mantenha "localhost", caso a toda interação aconteça no mesmo dispositivo.
+- No campo `serverName`, insira o endereço ip do dispositivo que será o servidor nessa interação. Ou mantenha "localhost", caso a toda interação aconteça no mesmo dispositivo.
 - Na IDE de sua preferência, inicie primeiramente o servidor e, em seguida, o cliente. O cliente irá iniciar a interação automaticamente. Após isso, siga as instruções passadas pelo servidor.
