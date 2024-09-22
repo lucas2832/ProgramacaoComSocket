@@ -1,11 +1,11 @@
-#Programação com Socket
+# Programação com Socket
 
-##Trabalho prático da disciplina de Redes de Computadores II
+## Trabalho prático da disciplina de Redes de Computadores II
 
-###Autor
+### Autor
 - Lucas Martins da Silva Cruz
 
-###Sobre o trabalho:
+### Sobre o trabalho:
   Quando se inicia a interação cliente servidor, é definido um limite de interações para
  negociação. Neste trabalho existem dois loops de interação. O primeiro loop é apenas para
  garantir que o usuário insira corretamente o código de algum produto existente na loja. O
@@ -18,6 +18,6 @@
  servidor avisa ao usuário que o limite foi excedido e que não será possível concluir a
  compra. Logo em seguida a conexão é encerrada.
 
- ###Instruções de uso:
+ ### Instruções de uso:
 - No campo 'serverName', insira o endereço ip do dispositivo que será o servidor nessa interação. Ou mantenha "localhost", caso a toda interação aconteça no mesmo dispositivo.
 - Na IDE de sua preferência, inicie primeiramente o servidor e, em seguida, o cliente. O cliente irá iniciar a interação automaticamente. Após isso, siga as instruções passadas pelo servidor.
